@@ -57,6 +57,10 @@ a {
     justify-content: center;
     height: 50vh; /*vh = viewheight*/
 }
+
+.cover {
+    width: 30rem;
+}
             /* GRID*/
 
 .grid-wrapper {
